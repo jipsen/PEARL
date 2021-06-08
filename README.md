@@ -1,6 +1,9 @@
 # PEARL
 Correspondence theory for relevance logics
 
+A Jupyter notebook with the code and examples can be found at
+
+https://colab.research.google.com/drive/1p0PTkmyq7vTWgYDxCTFHVRwjaLeT45uX?usp=sharing
 
 Notes:
 1. The implementation language is Python
